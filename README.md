@@ -1,5 +1,12 @@
 # Actividad-4-Utilizando-sistemas-de-control-de-versiones
 INTEGRANTES:
+Nombre: MICHAEL ANDRES COLLAZOS NARVAEZ
+ID Banner: 100110631
+correo: mcollaz7@estudiante.ibero.edu.co 
+
+Nombre: Julian David Palacios Cardenas
+ID Banner: 100112448
+correo: jpalac25@estudiante.ibero.edu.co
 
 El proyecto que se va a publicar es un proyecto básico desarrollado en java vanilla, sobre el almacenamiento de películas y series donde se solicita cierta información básica como lo es: 
 •	Nombre de la película.
