@@ -1,6 +1,9 @@
 # Actividad-4-Utilizando-sistemas-de-control-de-versiones
 INTEGRANTES:
-
+Julián David Palacios Cárdenas
+100112448
+Michael Andres Collazos Narvaez
+100112448
 El proyecto que se va a publicar es un proyecto básico desarrollado en java vanilla, sobre el almacenamiento de películas y series donde se solicita cierta información básica como lo es: 
 •	Nombre de la película.
 •	Nombre de la serie.
